@@ -1,1 +1,1 @@
-Exercício de adicionar arquivos via git
+Meu primeiro projeto Javascript full stack
