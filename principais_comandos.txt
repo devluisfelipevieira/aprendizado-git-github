@@ -10,6 +10,8 @@ git checkout -b nome-da-branch - cria uma branch e já muda para ela
 
 git checkout nome-da-breach - muda para branch
 
+git merge nome-da-branch - manda as mudanças feitas na branch para a master(importante estar na master)
+
 git push origin master(ou o nome da branch) - manda a atualização do projeto pro github
 
 git pull origin master(ou nome da branch) - recebe a atualização do projeto no github pra maquina
